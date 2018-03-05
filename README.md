@@ -20,7 +20,8 @@ To insert data please install postman
 
 ### example Json data for insert: <br />
 ```
-{ "Name":"John",
+{ 
+  "Name":"John",
   "Address": "18 alma ave",
   "Position": "Mobile developer",
   "ExpectedSalary": 60000,
