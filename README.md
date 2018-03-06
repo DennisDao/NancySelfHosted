@@ -2,6 +2,14 @@
 
 This project is an technical solution to We Make Apps technical test.
 
+### Technology:
+
+```
+.NET Core 2.0
+SQLite
+Npoco
+Nancy
+```
 ### Requirements:
 
 ```
